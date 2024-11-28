@@ -6,4 +6,4 @@
 
 ### Tecnologías usadas
 
-### Descripción
+### Mejoras a futuro
