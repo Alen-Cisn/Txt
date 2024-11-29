@@ -47,7 +47,7 @@ public class CreateNoteCommandHandler(INotesModuleRepository notesModuleReposito
             {
                 Name = request.Name,
                 ParentId = request.ParentId,
-                Lines = [new NoteLine() { Content = "" }],
+                Lines = [],
                 Path = path
             };
 
